@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-import djnetaxept
+import shop_netaxept
 
 CLASSIFIERS = [
         'Development Status :: 4 - Beta',
