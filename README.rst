@@ -16,7 +16,7 @@ For the development version:
 Configuration
 -------------
 
-Add `django-netaxept` and `django-shop-netaxept` to `settings.INSTALLED_APPS` and run:
+Add ``djnetaxept`` and ``shop_netaxept`` to ``settings.INSTALLED_APPS`` and run:
 
 ::
 
