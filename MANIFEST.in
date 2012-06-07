@@ -1,0 +1,3 @@
+recursive-include shop_netaxept/templates *
+recursive-include shop_netaxept/locale *
+recursive-include shop_netaxept/static *
