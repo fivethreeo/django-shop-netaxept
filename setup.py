@@ -17,10 +17,10 @@ setup(
     name='django-shop-netaxept',
     version=shop_netaxept.get_version(),
     description='This is a payment module for django-shop using Netaxept',
-    long_description=open(os.path.join(os.path.dirname(__file__), 'README.txt')).read(),
+    long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     author='Oyvind Saltvik',
     author_email='oyvind.saltvik@gmail.com',
-    url='http://github.com/fivethreeo/django-netaxept/',
+    url='http://github.com/fivethreeo/django-shop-netaxept/',
     packages=find_packages(),
     package_data={
         'djnetaxept': [
